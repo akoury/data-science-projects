@@ -6,6 +6,7 @@ These can also be found on my [Kaggle Profile.](https://www.kaggle.com/akoury)
 
 | Title                                | Kaggle                                                           | Type           | Tools | Notes                                     |
 |--------------------------------------|------------------------------------------------------------------|----------------|----------|-------------------------------------------|
+| [NLP for Fake News Classsification](Fake_News.ipynb) | [Link](https://www.kaggle.com/rchitic17/real-or-fake) | Classification     | Python, NLTK, spaCy, Sklearn   | Time Series Analysis                              |
 | [Bike Sharing in Washington D.C.: Usage Prediction](Bike_Sharing.ipynb) | [Link](https://www.kaggle.com/marklvl/bike-sharing-dataset/home) | Regression     | Python, Sklearn   | Time Series Analysis                              |
 | [Bike Sharing in Washington D.C.: Distributed Usage Prediction](Distributed_Bike_Sharing.ipynb) | [Link](https://www.kaggle.com/marklvl/bike-sharing-dataset/home) | Regression     | Python, Dask   | Remade with Dask for Distributed Analysis |
 | [House Sales in King County, USA: Price Prediction](House_Pricing.ipynb) | [Link](https://www.kaggle.com/harlfoxem/housesalesprediction)    | Regression     | R, Caret       |                                           |
